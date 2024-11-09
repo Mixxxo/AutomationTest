@@ -12,7 +12,7 @@
 # from django.nV for use in another web application!
 #
 
-""" forms.py contains various Django forms for the applications test"""
+""" forms.py contains various Django forms for the applications tester"""
 
 from taskManager.models import Project, Task
 from django import forms
