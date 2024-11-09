@@ -11,7 +11,7 @@
 # UNDER NO CIRCUMSTANCES should you take any code
 # from django.nV for use in another web application!
 #
-""" misc.py contains miscellaneous functions
+""" misc.py contains miscellaneous functionsss
 
     Functions that are used in multiple places in the
     rest of the application, but are not tied to a
