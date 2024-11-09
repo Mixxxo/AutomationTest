@@ -6,7 +6,7 @@
 #
 #           INSECURE APPLICATION WARNING
 #
-# django.nV is a PURPOSELY INSECURE web-application
+# django.nV is a PURPOSELY INSECUREee web-application
 # meant to demonstrate Django security problems
 # UNDER NO CIRCUMSTANCES should you take any code
 # from django.nV for use in another web application!
